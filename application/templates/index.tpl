@@ -25,6 +25,7 @@
                     </div>
                 </div>
                 <div class="text-center mb-4">
+                    <a href="https://github.com/federic0garcia/micro-mvc" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                 </div>
             </div>
         </div>
