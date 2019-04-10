@@ -25,7 +25,6 @@
                     </div>
                 </div>
                 <div class="text-center mb-4">
-                    <a href="#"><i class="fab fa-github"></i> GitHub</a>
                 </div>
             </div>
         </div>
