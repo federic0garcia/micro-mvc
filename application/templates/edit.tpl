@@ -23,7 +23,7 @@
                     </div>
                     <div class="form-group">
                         <label for="textElement">Text:</label>
-                        <textarea class="form-control" id="textElement" name="text" rows="3">{%text%}</textarea>
+                        <textarea class="form-control" id="textElement" name="text" rows="10">{%text%}</textarea>
                     </div>
                     <button type="submit" class="btn btn-primary mt-2"><i class="fas fa-save"></i> Save</button>
                 </form>
